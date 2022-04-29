@@ -1,0 +1,16 @@
+{
+  "name": "test-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/araujRafael/TEST_GRAPHQL.git",
+  "author": "Rafael Diniz",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "graphql": "^16.4.0"
+  }
+}
